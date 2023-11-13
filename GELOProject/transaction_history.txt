@@ -1,0 +1,6 @@
+Transaction ID: 1
+Items Bought: Coffee, Cheesecake, Coffee Beans
+Quantity: 1
+Transaction Total: $2.03
+Date and Time: 2023-11-11 21:14:26
+--------------------------------------------
