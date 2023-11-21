@@ -4,3 +4,9 @@ Quantity: 1
 Transaction Total: $2.03
 Date and Time: 2023-11-11 21:14:26
 --------------------------------------------
+Transaction ID: 566131
+Items Bought: Coffee, Cheesecake, Coffee Beans
+Quantity: 5
+Transaction Total: $3.21
+Date and Time: 2023-11-21 13:25:10
+--------------------------------------------
